@@ -1,0 +1,44 @@
+Harry Chu
+513-432-8696
+rryrrychu@gmail.com
+linkedin.com/in/chuharry
+chuharry.github.io/
+
+OBJECTIVE
+====================================
+A passionate software engineer looking for a more fufilling outlet for their skills and keen on problem solving using computational methods, with practical project and field experience in architecting technology solutions, embedded platform and integration development experience to build robust software systems, proficient in multiple programming languages including C/C++, Java, and Python. Looking for a career opportunity to materialize my inspired ideas into applications to solve real life problems.
+
+SKILLS
+====================================
+- Programming Lanugages: Java, Python, C/C++, Verilog, MIPS Assembly
+- Tools: MATLAB, Simulink, TRACE32, AUTOSAR, CANalyzer, CANape,  ROS2, Git, Docker, Embedded Linux
+- CS Skills: Algorithm Design, Runtime Analysis, Deep Learning Models, Generative Modelling, Machine Learning Theory, Reinforcement Learning, Numerical Reasoning, Technology Laws and Policies
+
+WORK EXPERIENCE
+====================================
+Embedded Software Engineer, Caterpillar Inc, 07/2024 - Present
+- Develop software features for machine, marine, industrial, and electric power engine systems 
+- Maintain library of shared engine features across multiple platforms and applications
+- Integrate features into application packages, perform machine HIL testing, and SIL unit testing
+
+Embedded Software Engineer Intern/Co-op, Caterpillar Inc, 05/2023 - 07/2024
+- Develop core information and network system software for construction machines
+- Guarantee uninterrupted maintenance of OS and Linux builds for embedded information platforms
+- Integrate and optimize device drivers to enable seamless compatibility with new hardware and peripherals
+- Maintain operating system and applications for telematic control units 
+- Develop a python application to remotely update software on radios which transmit a machine’s diagnostic information 
+- Document all software changes and releases on internal CAT website using asciidocs
+
+Competitive Programming Tutor, Juni Learning, 12/2020 - 06/2024
+- Taught students to implement algorithms like dynamic programming, shortest path, and graph searching, to solve complex USA Computing Olympiad (USACO) problems in Java and Python 
+
+Product Engineer Intern/Co-Op, Caterpillar Inc, 05/2022 – 05/2023
+- Developed software models to predict the lifespan of components on Cat machines with the aim of preventing machine failures
+- Formulated control software that synchronizes sensors to monitor conditions of hydraulic systems
+- Created MatLab and Simulink models to detect hydraulic leaks by analyzing long term oil level changes
+
+
+EDUCATION
+====================================
+University of Illinois at Urbana-Champaign, 2020-2024
+B.S. in Computer Science, Minor in Business Management
