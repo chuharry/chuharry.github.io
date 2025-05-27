@@ -6,13 +6,15 @@ chuharry.github.io/
 
 OBJECTIVE
 ====================================
-A passionate software engineer looking for a more fufilling outlet for their skills and keen on problem solving using computational methods, with practical project and field experience in architecting technology solutions, embedded platform and integration development experience to build robust software systems, proficient in multiple programming languages including C/C++, Java, and Python. Looking for a career opportunity to materialize my inspired ideas into applications to solve real life problems.
+A passionate software engineer looking for a more fulfilling outlet for their skills and keen on problem solving using computational methods, with practical project and field experience in architecting technology solutions, embedded platform and integration development experience to build robust software systems, proficient in multiple programming languages including C/C++, Java, and Python. Looking for a career opportunity to materialize my inspired ideas into applications to solve real life problems.
+
 
 SKILLS
 ====================================
 - Programming Lanugages: Java, Python, C/C++, Verilog, MIPS Assembly
 - Tools: MATLAB, Simulink, TRACE32, AUTOSAR, CANalyzer, CANape,  ROS2, Git, Docker, Embedded Linux
 - CS Skills: Algorithm Design, Runtime Analysis, Deep Learning Models, Generative Modelling, Machine Learning Theory, Reinforcement Learning, Numerical Reasoning, Technology Laws and Policies
+
 
 WORK EXPERIENCE
 ====================================
